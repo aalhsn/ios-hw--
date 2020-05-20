@@ -1,2 +1,15 @@
-# Homework #
-This is a template that you are going to use to create repos for homeworks
+واجب - رقم #
+اشرح الفكرة العامة للواجب##
+خطوات ###
+1. الخطوة الاولى
+2. الخطوة الثانية
+...
+...
+
+!بونص ###
+1. الخطوة الاولى
+2. الخطوة الثانية
+...
+...
+
+آخر موعد لرفع الكود `git commit`
